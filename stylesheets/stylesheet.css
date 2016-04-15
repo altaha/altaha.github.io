@@ -194,6 +194,7 @@ pre code {
 
 ul, ol, dl {
   margin-bottom: 20px;
+  margin-left: 20px;
 }
 
 
@@ -297,7 +298,7 @@ blockquote {
 ul li {
   list-style-position: inside;
   list-style: disc;
-  padding-left: 20px;
+  padding-left: 5px;
 }
 
 ol li {
